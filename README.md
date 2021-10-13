@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LimaAle
+- 👀 I’m interested in NextJS and Flutter
+- 🌱 I’m currently learning Flutter
